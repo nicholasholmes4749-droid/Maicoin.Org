@@ -1,4 +1,4 @@
-// Connect Wallet
+// Connect Walconsole.log("JS connected!");let
 async function connectWallet() {
   if (window.ethereum) {
     try {
